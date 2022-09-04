@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "36a039dba88ed689390eb019f0b2c252",
-"index.html": "b3619927476a5c5901c367748889c240",
-"/": "b3619927476a5c5901c367748889c240",
-"main.dart.js": "69bc37b5007341c510957c3adcdaeb2a",
+"index.html": "92bbe4eb4d68ea06e4ffb07f77c4cf0f",
+"/": "92bbe4eb4d68ea06e4ffb07f77c4cf0f",
+"main.dart.js": "506e5c7b812cd08056b958bb0f5238f0",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -58,7 +58,7 @@ const RESOURCES = {
 "assets/assets/img/logo2.png": "2a823a7858c5cce1fe4d4456e0b2e87f",
 "assets/assets/img/Nabel.gif": "591c1d13c2e700c0b3b8297bb82d3476",
 "assets/assets/img/money.png": "6e2d571c1bd0ee8003cc3e639fd845b8",
-"assets/assets/img/hg.png": "56b0ab4b0e46f3942ff1a6ec152712b1",
+"assets/assets/img/hg.png": "576b418f013b7fcc581306a85e1ebaba",
 "assets/assets/img/WhatsApp.png": "640971105ce809b1bfcd8abfdf2a50c4",
 "assets/assets/img/Facebook.png": "db43c08c50481df956aafa414d8bbd99",
 "assets/assets/img/OCDS.jpg": "de774a5b9f6064d4210eb0bfa63d96d8",
