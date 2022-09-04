@@ -99387,7 +99387,7 @@ J(a,b){var s,r,q,p,o,n=this,m=null,l=t.O,k=A.b([A.ao(28,24,70,1),B.v,A.ao(28,24,
 if(j==null)j=A.cH("assets/img/profile.png",m,m,m,m).c
 else{j=A.a(j.c,"_path")
 j=A.kh(j,m,m,m,m).c}s=t.p
-j=A.b5(A.b([A.dq(!1,!0,A.i2(B.h,j,m,100),m,!0,m,m,m,m,m,m,m,m,m,m,new A.aGM(n),m,m,m),A.aN(A.b([A.aa("Upload picture here",m,m,m,A.a7(m,m,B.h,m,m,m,m,m,m,m,m,18,m,B.q,m,m,!0,m,m,m,m,m,m,m,m),m,m),new A.ap(B.ajp,A.cH("assets/img/upArrow.png",m,m,m,m),m)],s),B.m,m,B.bo,B.n,m,m)],s),B.m,B.t,B.n,B.z)
+j=A.b5(A.b([A.dq(!1,!0,A.i2(B.h,j,m,100),m,!0,m,m,m,m,m,m,m,m,m,m,new A.aGM(n),m,m,m),A.aN(A.b([A.aa("Select your picture here",m,m,m,A.a7(m,m,B.h,m,m,m,m,m,m,m,m,18,m,B.q,m,m,!0,m,m,m,m,m,m,m,m),m,m),new A.ap(B.ajp,A.cH("assets/img/upArrow.png",m,m,m,m),m)],s),B.m,m,B.bo,B.n,m,m)],s),B.m,B.t,B.n,B.z)
 if(n.f==null&&n.w==="")r="Click to select your vaccination passport"
 else r=n.w
 r=A.aa(r,m,m,m,A.a7(m,m,B.h,m,m,m,m,m,m,m,m,20,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)
